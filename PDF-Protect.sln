@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 15 for Windows Desktop
-VisualStudioVersion = 15.0.27703.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF-Protect", "PDF-Protect\PDF-Protect.csproj", "{62DDE9F4-A41B-42F8-AA89-9E9F25972EA4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PDF-Protect-Installer", "PDF-Protect-Installer\PDF-Protect-Installer.vdproj", "{40F5BDF4-B04B-4956-83B0-B977ECC2BCCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,9 @@ Global
 		{62DDE9F4-A41B-42F8-AA89-9E9F25972EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62DDE9F4-A41B-42F8-AA89-9E9F25972EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62DDE9F4-A41B-42F8-AA89-9E9F25972EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F5BDF4-B04B-4956-83B0-B977ECC2BCCD}.Debug|Any CPU.ActiveCfg = Debug
+		{40F5BDF4-B04B-4956-83B0-B977ECC2BCCD}.Release|Any CPU.ActiveCfg = Release
+		{40F5BDF4-B04B-4956-83B0-B977ECC2BCCD}.Release|Any CPU.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -59,7 +59,7 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>F2C27C113FF455ED4178851B1CA496E9D1B812A6</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>6435EE80F35C075CE7123D831C58F5B92A9646B8</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <TargetZone>LocalIntranet</TargetZone>
